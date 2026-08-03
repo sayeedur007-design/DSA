@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class mergesort{
+public class mergesort {
 
     static void ms(int[] nums, int left, int right) {
         if (left >= right) {
